@@ -1,1 +1,1 @@
-ff
+The repository "Learning_RL" will briefly summarize my understanding of Reinforcement Learning (RL) along with any useful resources that I will come across while learning. The primary reference to learn RL is CMU's course [10-703: Deep RL (Fall 2022)](https://cmudeeprl.github.io/703website_f22/).
